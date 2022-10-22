@@ -1,0 +1,32 @@
+body{
+	background-color: #CEAFDB;
+	font-family: TH SarabunPSK;
+
+}
+body table{
+	border: 3 solid black;
+	box-shadow: 0 3px 3px black;
+}
+body img{
+	margin: 30px;
+}
+
+body a{
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
+
+h1{
+	margin: 30px;
+}
+
+div{
+	font-size: 20px;
+}
+
+img{
+
+	
+}
